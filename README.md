@@ -55,8 +55,8 @@ I am a sophomore at IIT Guwahati, pursuing Chemical Science and Technology, with
 > Yesterday is history, tomorrow is mystery, but today is a gift, that's why its called the present. 
 
 <h3 align = 'left'> Life Schedule </h3>
-```python
 
+```python
 while (death != True):
   Wake Up
   Eat
@@ -67,6 +67,7 @@ while (death != True):
   Regret
   Sleep
 ```
+
 <br>
 <br>
 <br>
