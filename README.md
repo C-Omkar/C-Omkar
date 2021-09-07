@@ -42,11 +42,9 @@ I am a sophomore at IIT Guwahati, pursuing Chemical Science and Technology, with
 <br>
 <h3 align = 'left'> Some fun stuff about me </h3>
 
-- 🔭 I’m currently working on **Video Captioning and Hand Gesture Projects**
-- 🌱 I’m currently learning **Deep Learning, Game Development**
+- I enjoy watching anime
+- I enjoy playing video games with my friends
 - 👯 I love collaborating with people for hackathons. They can be Case Study hackathons, or Analytics
-- 🤔 I’m looking for help with **Unity** and **C#**
-- 💬 Ask me about **Machine Learning and Deep Learning Algorithms**
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=C-Omkar&label=Profile%20views&color=0e75b6&style=flat" alt="C-Omkar" /> </p>
