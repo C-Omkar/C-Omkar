@@ -1,10 +1,10 @@
 ### Hi there, I am Omkar Chaudhari 👋
-##
+## I am currently studying at Indian Institute of Technology, Guwahati
 
 - 🔭 I’m currently working on **Video Captioning and Hand Gesture Projects**
 - 🌱 I’m currently learning **Deep Learning, Game Development**
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👯 I love collaborating with people for hackathons. They can be Case Study hackathons, or Analytics
+- 🤔 I’m looking for help with **Unity** and **C#**
 - 💬 Ask me about **Machine Learning and Deep Learning Algorithms**
 
 
