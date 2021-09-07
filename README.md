@@ -40,6 +40,10 @@ I am a sophomore at IIT Guwahati, pursuing Chemical Science and Technology, with
 
 <br>
 <br>
+<h3 align = 'left'> Some fun stuff about me </h3>
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=C-Omkar&label=Profile%20views&color=0e75b6&style=flat" alt="C-Omkar" /> </p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=C-Omkar&count_private=true&show_icons=true&theme=dark" />
