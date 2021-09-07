@@ -50,8 +50,7 @@ I am a sophomore at IIT Guwahati, pursuing Chemical Science and Technology, with
 <img width ='50px' align='left' src ='https://raw.githubusercontent.com/C-Omkar/C-Omkar/main/valorant-seeklogo.com.svg'/>
 <br>
 <br>
-
-
+<br>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=C-Omkar&label=Profile%20views&color=0e75b6&style=flat" alt="C-Omkar" /> </p>
