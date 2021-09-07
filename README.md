@@ -43,7 +43,6 @@ I am a sophomore at IIT Guwahati, pursuing Chemical Science and Technology, with
 <img align="left" alt="Blender" width="30px" src="https://raw.githubusercontent.com/C-Omkar/C-Omkar/main/blender-seeklogo.com.svg"/>  
 
 <br>
-<br>
 <h3 align = 'left'> Some fun stuff about me </h3>
 
 - I enjoy watching anime
