@@ -1,6 +1,7 @@
 ### Hi there, I am Omkar Chaudhari 👋
-### I am a sophomore at IIT Guwahati, pursuing Chemical Science and Technology, with a minor in Electronics and Communication
-
+<p align = "center">
+I am a sophomore at IIT Guwahati, pursuing Chemical Science and Technology, with a minor in Electronics and Communication
+</p>
 - 🔭 I’m currently working on **Video Captioning and Hand Gesture Projects**
 - 🌱 I’m currently learning **Deep Learning, Game Development**
 - 👯 I love collaborating with people for hackathons. They can be Case Study hackathons, or Analytics
