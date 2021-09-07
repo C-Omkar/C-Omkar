@@ -46,6 +46,7 @@ I am a sophomore at IIT Guwahati, pursuing Chemical Science and Technology, with
 - I enjoy playing video games with my friends
 - Some of my favorite Games:
 
+<img width ='50px' align='left' src ='https://raw.githubusercontent.com/C-Omkar/C-Omkar/main/minecraft-seeklogo.com.svg'/>
 <img width ='50px' align='left' src ='https://raw.githubusercontent.com/C-Omkar/C-Omkar/main/valorant-seeklogo.com.svg'/>
 <br>
 <br>
