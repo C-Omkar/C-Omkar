@@ -14,11 +14,20 @@ I am a sophomore at IIT Guwahati, pursuing Chemical Science and Technology, with
 - 💬 Ask me about **Machine Learning and Deep Learning Algorithms**
 
 
-📫 Find me at:
-<p align = 'left'> 
-<a href = 'https://www.linkedin.com/in/dhruv-potdar-322173204/'> <img width = '26px' align= 'centre' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.instagram.com/omkar_chaudhari_1/'> <img width = '26px' align= 'left' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> 
-</p>
+<!-- Actual text -->
+
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+[1.2]: https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
+
+<!-- Links to your social media accounts -->
+
+[1]: https://www.instagram.com/omkar_chaudhari_1/
+[2]: https://www.linkedin.com/in/omkar-chaudhari-327441203/
+
 
 
 
