@@ -13,7 +13,7 @@ I am a sophomore at IIT Guwahati, pursuing Chemical Science and Technology, with
 - 🤔 I’m looking for help with **Unity** and **C#**
 - 💬 Ask me about **Machine Learning and Deep Learning Algorithms**
 
-📮 Find me at:
+ ### 📮 Find me at:
 <p align = 'left'> 
 <a href = 'https://www.linkedin.com/in/omkar-chaudhari-327441203/'> <img width = '26px' align= 'centre' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.instagram.com/omkar_chaudhari_1/'> <img width = '26px' align= 'left' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> 
