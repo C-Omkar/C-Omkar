@@ -56,6 +56,7 @@ I am a sophomore at IIT Guwahati, pursuing Chemical Science and Technology, with
 
 <h3 align = 'left'> Life Schedule </h3>
 ```python
+
 while (death != True):
   Wake Up
   Eat
