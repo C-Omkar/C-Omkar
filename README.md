@@ -38,6 +38,8 @@ I am a sophomore at IIT Guwahati, pursuing Chemical Science and Technology, with
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 <img align="left" alt="Blender" width="26px" src="https://raw.githubusercontent.com/C-Omkar/C-Omkar/main/blender-seeklogo.com.svg"/>  
 
+<br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=C-Omkar&label=Profile%20views&color=0e75b6&style=flat" alt="C-Omkar" /> </p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=C-Omkar&count_private=true&show_icons=true&theme=dark" />
