@@ -54,7 +54,6 @@ I am a sophomore at IIT Guwahati, pursuing Chemical Science and Technology, with
 <img width ='30px' align='left' src ='https://raw.githubusercontent.com/C-Omkar/C-Omkar/main/valorant-seeklogo.com.svg'/>
 <br>
 <br>
-<br>
 <h3 align = 'left'> Favorite Quote </h3>
 
 > Yesterday is history, tomorrow is mystery, but today is a gift, that's why its called the present. 
@@ -73,7 +72,6 @@ while (death != True):
   Sleep
 ```
 
-<br>
 <br>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=C-Omkar&label=Profile%20views&color=0e75b6&style=flat" alt="C-Omkar" /> </p>
