@@ -1,4 +1,6 @@
-### Hi there, I am Omkar Chaudhari 👋
+<h2>
+Hi there, I am Omkar Chaudhari 👋
+<h2>
 <p align = "center">
 I am a sophomore at IIT Guwahati, pursuing Chemical Science and Technology, with a minor in Electronics and Communication
 </p>
