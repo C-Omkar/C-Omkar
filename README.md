@@ -7,10 +7,8 @@ Hey there I'm Omkar Chaudhari []~(￣▽￣)~*
 I am a sophomore at IIT Guwahati, pursuing Chemical Science and Technology, with a minor in Electronics and Communication
 </p>
 
-- 🔭 I’m currently working on **Video Captioning**
-- 🌱 I’m currently learning **Deep Learning, Game Development**
+- 🌱 I’m currently learning **Deep Learning**
 - 👯 I love collaborating with people for hackathons. They can be Case Study hackathons, or Analytics
-- 🤔 I’m looking for help with **Unity** and **C#**
 - 💬 Ask me about **Machine Learning and Deep Learning Algorithms**
 
  ### Find me at:
@@ -43,20 +41,7 @@ I am a sophomore at IIT Guwahati, pursuing Chemical Science and Technology, with
 <img align="left" alt="Blender" width="30px" src="https://raw.githubusercontent.com/C-Omkar/C-Omkar/main/blender-seeklogo.com.svg"/>  
 
 <br>
-<h3 align = 'left'> Some fun stuff about me </h3>
 
-- I enjoy watching anime
-- I enjoy playing video games with my friends
-- Some of my favorite Games:
-
-<img width ='26px' align='left' src ='https://raw.githubusercontent.com/C-Omkar/C-Omkar/main/minecraft-seeklogo.com.svg'/>
-<img width ='30px' align='left' src ='https://raw.githubusercontent.com/C-Omkar/C-Omkar/main/valorant-seeklogo.com.svg'/>
-<br>
-<h3 align = 'left'> Favorite Quote </h3>
-
-> Yesterday is history, tomorrow is mystery, but today is a gift, that's why its called the present. 
-
-<h3 align = 'left'> Life Schedule </h3>
 
 ```python
 while (death != True):
