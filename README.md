@@ -4,12 +4,10 @@ Hey there I'm Omkar Chaudhari []~(￣▽￣)~*
 </p>
 </h2>
 <p align = "center">
-I am a sophomore at IIT Guwahati, pursuing Chemical Science and Technology, with a minor in Electronics and Communication
+I am a Final Year student at IIT Guwahati, pursuing Chemical Science and Technology as my major.
 </p>
 
-- 🌱 I’m currently learning **Deep Learning**
-- 👯 I love collaborating with people for hackathons. They can be Case Study hackathons, or Analytics
-- 💬 Ask me about **Machine Learning and Deep Learning Algorithms**
+- My current academic interests lie in applications of Machine Learning and Artificial Intelligence in Chemistry. 
 
  ### Find me at:
 <p align = 'left'> 
@@ -17,28 +15,7 @@ I am a sophomore at IIT Guwahati, pursuing Chemical Science and Technology, with
 
 </p>
 
-<h3 align='left'> Skills and Languages  </h3>
 
-<img width ='30px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg' />
-
-<img width ='30px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'/>
-
-<img width ='30px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'/>
-
-<img width ='30px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'/>
-
-<img width ='30px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg' />
-
-<!-- <img width ='30px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'/> -->
-
-<img width ='30px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/unity.svg'/>
-
-<img width ='30px' align='left' src ='https://raw.githubusercontent.com/C-Omkar/C-Omkar/main/jupyter-seeklogo.com.svg'/>
-
-<img width ='30px' align='left' src ='https://raw.githubusercontent.com/C-Omkar/C-Omkar/main/figma-seeklogo.com.svg'/>
-
-<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
-<img align="left" alt="Blender" width="30px" src="https://raw.githubusercontent.com/C-Omkar/C-Omkar/main/blender-seeklogo.com.svg"/>  
 
 
 <br>
